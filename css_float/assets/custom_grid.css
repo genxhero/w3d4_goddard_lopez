@@ -1,0 +1,16 @@
+/* PUT FLUID GRID CODE HERE */
+aside {
+  width: 50%;
+  float:left;
+}
+
+.main-section {
+  width: 50%;
+  border-style: groove;
+  
+}
+
+figure:before{
+  width: 40%;
+  float:inherit;
+}
